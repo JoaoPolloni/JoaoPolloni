@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SELECT * FROM MY_DATA;
 Familiarizado em resolver problemas<br>Analista Junior em Business Intelligence<br>Estudante de Engenharia de Software pela Unicesumar 3/4 anos<br>
 
 
