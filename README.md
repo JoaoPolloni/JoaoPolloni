@@ -6,7 +6,6 @@ Familiarizado em resolver problemas<br>Analista Junior em Business Intelligence<
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/?username=JoaoPolloni&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api?username=JoaoPolloni&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPolloni&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPolloni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
