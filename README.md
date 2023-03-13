@@ -13,6 +13,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-vitor-polloni-cordeiro/)
 ---
 [![](https://visitcount.itsvg.in/api?id=JoaoPolloni&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @joaopolloni Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@joaopolloni)](https://holopin.io/@joaopolloni)
