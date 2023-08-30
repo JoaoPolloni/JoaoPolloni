@@ -12,7 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joao_vitor_polloni/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-vitor-polloni-cordeiro/)
 ---
-[![](https://visitcount.itsvg.in/api?id=JoaoPolloni&icon=0&color=0)](https://visitcount.itsvg.in)
 [![An image of @joaopolloni Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@joaopolloni)](https://holopin.io/@joaopolloni)
-
+[![](https://visitcount.itsvg.in/api?id=JoaoPolloni&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Snake animation](https://github.com/JoaoPolloni/JoaoPolloni/blob/output/github-contribution-grid-snake.svg)
