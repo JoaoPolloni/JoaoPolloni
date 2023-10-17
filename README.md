@@ -2,7 +2,24 @@
 🤝Familiarizado em resolver problemas<br>📊Analista Junior em Business Intelligence - Qlik Sense<br>👨🏻‍💻Estudante de Engenharia de Software pela Unicesumar 3/4 anos<br>
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Polloni-Qlik" height="50" width="60" src='https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg'>
+  <img align="center" alt="Polloni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Polloni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Polloni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Polloni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Polloni-Node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+  <img align="center" alt="Polloni-Java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+  <img align="center" alt="Polloni-Mongo" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+  <img align="center" alt="Polloni-postgre" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
+  <img align="center" alt="Polloni-mysql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+  <img align="center" alt="Polloni-github" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+  <img align="center" alt="Polloni-figma" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
+  <img align="center" alt="Polloni-Python" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
+  <img align="center" alt="Polloni-trello" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'>
+  <img align="center" alt="Polloni-MicroSQLServer" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'>
+  <img align="center" alt="Polloni-PowerBI" height="30" width="40" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg'>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPolloni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -14,4 +31,3 @@
 ---
 [![An image of @joaopolloni Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@joaopolloni)](https://holopin.io/@joaopolloni)
 [![](https://visitcount.itsvg.in/api?id=JoaoPolloni&icon=0&color=0)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/JoaoPolloni/JoaoPolloni/blob/output/github-contribution-grid-snake.svg)
