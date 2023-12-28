@@ -1,5 +1,5 @@
 # 💫 SELECT * FROM MY_DATA;
-🤝Familiarizado em resolver problemas<br>📊Analista Junior em Business Intelligence - Qlik Sense<br>👨🏻‍💻Estudante de Engenharia de Software pela Unicesumar 3/4 anos<br>
+🤝Familiarizado em resolver problemas<br>📊Analista de Performance Pleno - Power BI/Qlik<br>👨🏻‍💻Veterano de Engenharia de Software pela Unicesumar<br>
 
 # 💻 Tech Stack:
   <div style="display: inline_block"><br>
