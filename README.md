@@ -1,5 +1,9 @@
 # 💫 SELECT * FROM MY_DATA;
-🤝Familiarizado em resolver problemas<br>📊Analista de Performance Pleno - Power BI/Qlik<br>👨🏻‍💻Veterano de Engenharia de Software pela Unicesumar<br>🤓Presidente da UNIDEV - Consultoria Junior de T.I da Unicesumar<br>
+🤝Familiarizado em resolver problemas<br>
+📊Analista de Performance Pleno - Power BI/Qlik<br>
+🤖Desenvolvedor de Soluções de RPA - Python<br>
+👨🏻‍💻Veterano de Engenharia de Software pela Unicesumar<br>
+🤓Presidente da UNIDEV - Consultoria Junior de T.I da Unicesumar<br>
 
 
 # 💻 Tech Stack:
