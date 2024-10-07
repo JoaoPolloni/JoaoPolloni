@@ -5,7 +5,6 @@
 👨🏻‍💻Veterano de Engenharia de Software pela Unicesumar<br>
 🤓Presidente da UNIDEV - Consultoria Junior de T.I da Unicesumar<br>
 
-
 # 💻 Tech Stack:
   <div style="display: inline_block"><br>
   <img align="center" alt="Polloni-Qlik" height="50" width="60" src='https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg'>
@@ -22,6 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPolloni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoPolloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaovitor.polloni.311)
