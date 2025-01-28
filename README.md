@@ -2,8 +2,7 @@
 🤝Familiarizado em resolver problemas<br>
 📊Analista de Performance Pleno - Power BI/Qlik<br>
 🤖Desenvolvedor de Soluções de RPA - Python<br>
-👨🏻‍💻Veterano de Engenharia de Software pela Unicesumar<br>
-🤓Presidente da UNIDEV - Consultoria Junior de T.I da Unicesumar<br>
+🎓Formado em Engenharia de Software pela Unicesumar<br>
 
 # 💻 Tech Stack:
   <div style="display: inline_block"><br>
