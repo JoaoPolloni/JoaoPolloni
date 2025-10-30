@@ -1,13 +1,13 @@
 # 💫 SELECT * FROM MY_DATA;
 🤝Familiarizado em resolver problemas<br>
-📊Analista de Performance Pleno - Power BI/Qlik<br>
 🤖Desenvolvedor de Soluções de RPA - Python<br>
+📊Analista de Dados - Power BI/Qlik<br>
 🎓Formado em Engenharia de Software pela Unicesumar<br>
 
 # 💻 Tech Stack:
   <div style="display: inline_block"><br>
-  <img align="center" alt="Polloni-Qlik" height="50" width="60" src='https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg'>
   <img align="center" alt="Polloni-Python" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
+  <img align="center" alt="Polloni-Qlik" height="50" width="60" src='https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg'>
   <img align="center" alt="Polloni-Django" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'>
   <img align="center" alt="Polloni-postgre" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
   <img align="center" alt="Polloni-mysql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
@@ -15,7 +15,6 @@
   <img align="center" alt="Polloni-figma" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
   <img align="center" alt="Polloni-trello" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'>
   <img align="center" alt="Polloni-MicroSQLServer" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'>
-  <img align="center" alt="Polloni-PowerBI" height="30" width="40" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg'>
 </div>
 
 # 📊 GitHub Stats:
