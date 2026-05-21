@@ -11,21 +11,26 @@
 * 🎓 Graduado em Engenharia de Software pela Unicesumar e Pós-graduado em Análise de Negócios e Gestão de Tecnologia.
 * 📈 Certificado em Lean Six Sigma White Belt.
 * 🚀 Entusiasta da transição para Agentic RPA e integrações com Inteligência Artificial.
+* 🏗️ Em constante aprendizado e evolução com o objetivo de me tornar um **Arquiteto de Software**.
 
 ---
 
 ## 💻 Tech Stack & Ferramentas
 
 <div align="center">
-  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+  <img alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg">
+  <img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img alt="Qlik" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg">
-  <img alt="Git/GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img alt="Git/GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+  <img alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg">
 </div>
 
 ---
@@ -33,7 +38,8 @@
 ## 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPolloni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats">
+  <img src="https://helio-github-stats.vercel.app/api?username=JoaoPolloni&custom_title=Estatísticas+do+GitHub&bg_color=111111&title_color=FF7A00&text_color=e0e0e0&icon_color=FF7A00&ring_color=FF7A00&hide_border=true&locale=pt-br&border_radius=15&card_width=400&show_icons=true&include_all_commits=true&line_height=25&text_bold=true" alt="GitHub Stats"/>
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JoaoPolloni&layout=compact&stats_format=percentages&bg_color=111111&title_color=FF7A00&text_color=e0e0e0&hide_border=true&border_radius=15&card_width=400&locale=pt-br&custom_title=Linguagens+Mais+Usadas" alt="Top Languages"/>
 </div>
 
 ### 🐍 GitHub Snake
@@ -71,7 +77,5 @@
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JoaoPolloni&icon=0&color=0" alt="Profile Views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=JoaoPolloni&label=Visualizações+do+Perfil&color=FF7A00&style=flat" alt="Profile Views">
 </div>
